@@ -8,14 +8,14 @@ Built using standard C++ file streams and custom image buffers, this project pro
 
 ### Horizontal Flip
 
-| Original (`Demo_pics/test.png`) | Flipped (`Demo_pics/flipped.png`) | 
+| Original (`test.png`) | Flipped (`flipped.png`) | 
  | ----- | ----- | 
 |  |  | 
 | Base 2x2 test pattern | Mirrored along the vertical axis | 
 
 ### Brightness Adjustments
 
-| Brightness +50 (`Demo_pics/Bright.png`) | Brightness -50 (`Demo_pics/dark.png`) | 
+| Brightness +50 (`Bright.png`) | Brightness -50 (`dark.png`) | 
  | ----- | ----- | 
 |  |  | 
 | Channel values scaled upward | Channel values scaled downward | 
