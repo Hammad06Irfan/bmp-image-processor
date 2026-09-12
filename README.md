@@ -10,7 +10,7 @@ Built using standard C++ file streams and custom image buffers, this project pro
 
 | Original (`test.png`) | Flipped (`flipped.png`) | 
  | ----- | ----- | 
-|  |  | 
+| <img src="Demo_pics/test.png" width="650"/> |  | 
 | Base 2x2 test pattern | Mirrored along the vertical axis | 
 
 ### Brightness Adjustments
